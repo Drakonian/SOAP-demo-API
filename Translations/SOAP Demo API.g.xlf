@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="SOAP Demo API">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 2997820948 - NamedType 1803812000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request failed with HTTP Code:: %1 Request Body:: %2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = HttpCode, %2 = RequestBody</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SDA API Mgt - NamedType RequestErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2997820948 - NamedType 2185186290" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unsuportted content to send.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SDA API Mgt - NamedType UnsupportedContentToSendErr</note>
+        </trans-unit>
+        <trans-unit id="Page 1805667310 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Temperature Converter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDA Temperature Converter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1805667310 - NamedType 3784603144" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Celsius</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDA Temperature Converter - NamedType CelsiusLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1805667310 - NamedType 3854752224" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Farenheit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDA Temperature Converter - NamedType FarenheitLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1805667310 - NamedType 3691381949" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 degrees %2 equals %3 degress %4.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = OldTemperature, %2 = OldDegreesType, %3 = NewTemerature, %4 = NewDegreesType</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDA Temperature Converter - NamedType ResultLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1805667310 - Control 4057725537 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SOAP Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDA Temperature Converter - Control SOAPVersion - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1805667310 - Control 4057725537 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SOAP Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDA Temperature Converter - Control SOAPVersion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1805667310 - Control 1825316488 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Temperature</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDA Temperature Converter - Control Temperature - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1805667310 - Control 1825316488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Temperature</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDA Temperature Converter - Control Temperature - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1805667310 - Action 2477006181 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Celsius to Farenheit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDA Temperature Converter - Action CelsiustoFarenheit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1805667310 - Action 2477006181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Celsius to Farenheit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDA Temperature Converter - Action CelsiustoFarenheit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1805667310 - Action 2598062725 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Farenheit to Celsius</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDA Temperature Converter - Action FarenheittoCelsius - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1805667310 - Action 2598062725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Farenheit to Celsius</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SDA Temperature Converter - Action FarenheittoCelsius - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 130172175 - EnumValue 1028011255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Celsius</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SDA Temperature Convert Type - EnumValue To Celsius - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 130172175 - EnumValue 2081485855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Farenheit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SDA Temperature Convert Type - EnumValue To Farenheit - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
